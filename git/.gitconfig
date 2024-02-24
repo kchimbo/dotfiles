@@ -1,0 +1,7 @@
+[core]
+  excludesFile = ~/.gitignore_global
+[includeIf "gitdir:~/code/"]
+  path = ~/.gitconfig_personal
+[includeIf "gitdir:~/work/"]
+  path = ~/.gitconfig_work
+
