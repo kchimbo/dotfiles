@@ -5,6 +5,12 @@
 ### Applications
 
 - Alfred
+- Choosy: Open a link in the right browser
+  - Configured to open Slack links in Firefox Developer Edition
+- Slack
+- Microsoft 365
+- IntelliJ IDEA
+- Firefox (personal) & Firefox Developer Edition (work)
 - Setapp
   - CleanShot
   - Dash
@@ -56,4 +62,3 @@ margin-right: 1px;
 ```
 
 4. On **Extensions** > **Tree Style Tabs** > **Preferences** > Uncheck: *When a new tree appears, collapse others automatically*
-4. 
