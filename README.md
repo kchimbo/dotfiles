@@ -8,7 +8,13 @@
 
 ## Firefox Configuration
 
-## Settings
+### Addons
+
+- 1Password
+- LastPass (for work)
+- uBlock Origin (Enable Annoyances > Cookies)
+
+### Settings
 
 - Bookmarks Toolbar > Always Show
 
