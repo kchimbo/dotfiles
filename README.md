@@ -1,10 +1,19 @@
 # dotfiles
 
-## macOS Configuration
+## macOS
 
-### Spotlight
+### Applications
 
-![Spotlight Configuration](https://media.cleanshot.cloud/media/82889/jWLeE7FsyrVK6UgUzSyMMzDDsXvg0iJQdmqHeiT4.jpeg?Expires=1708808433&Signature=Xh~OQrXJF-fqh22amkcMEamKhFFaA2ueVQegcSjbi27UdUqqus6~OzIsODWqPeH~UQeDqIlAHbwvuQtv13mM5z-WG8AW9WeIxcR4E7kJoGibo~xlH61hqO9Bz-YiRQ6zkQd4VTw~qUmFTBBu~Z8iAXkDEfhBIuxpdAUgdFBLuUugI0liJuVxETMlE2OvN5w9s3vY4LEbDclQ2IW6y9flN2M5yAeFu39wBx3xXgKYixVrGSj1T9qvow2O06WgtbXR2rsbFZOlME41fsQzsDEQyUc2vn42BK~~1u6rdz9nx252JyEvck2ByKsYvd~4vwXwvq2NBqHTw4zjB8ny-L94Aw__&Key-Pair-Id=K269JMAT9ZF4GZ)
+- Alfred
+- Setapp
+  - CleanShot
+  - Dash
+
+### Configuration
+
+- After installed Alfred, disable Spotlight shortcuts and set the Spotlight shortkey in Alfred:
+
+![CleanShot 2024-03-04 at 20 44 12@2x](https://github.com/kchimbo/dotfiles/assets/5057339/b5cdd964-6859-4706-8b82-8b364ba65e4a)
 
 ## Firefox Configuration
 
